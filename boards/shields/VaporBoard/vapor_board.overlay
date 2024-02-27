@@ -20,9 +20,9 @@
         // From left to right
         col-gpios = <&pro_micro 16 GPIO_ACTIVE_HIGH>,
                     <&pro_micro 10 GPIO_ACTIVE_HIGH>,
-                    <&gpio1 01 GPIO_ACTIVE_HIGH>,
-                    <&gpio1 02 GPIO_ACTIVE_HIGH>,
                     <&gpio1 07 GPIO_ACTIVE_HIGH>,
+                    <&gpio1 02 GPIO_ACTIVE_HIGH>,
+                    <&gpio1 01 GPIO_ACTIVE_HIGH>,
                     <&pro_micro 9 GPIO_ACTIVE_HIGH>,
                     <&pro_micro 8 GPIO_ACTIVE_HIGH>,
                     <&pro_micro 7 GPIO_ACTIVE_HIGH>,
