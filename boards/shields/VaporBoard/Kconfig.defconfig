@@ -1,0 +1,6 @@
+if SHIELD_VAPOR_BOARD
+
+config ZMK_KEYBOARD_NAME
+    default "VaporBoard v1"
+
+endif
